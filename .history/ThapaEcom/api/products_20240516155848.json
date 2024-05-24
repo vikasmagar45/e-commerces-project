@@ -1,0 +1,9 @@
+[
+    {
+        "id":1,
+        "name":"Computers",
+        "brand":"ExampleBrand",
+        "Price":999.99,
+        
+    }
+]
